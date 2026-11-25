@@ -61,7 +61,7 @@ The external input path is designed around a resettable fuse (F1) and a 1N5819 S
 - **Schematic PDF:** [View Schematic](./Schematic_ESP32-DevKit-V1-Expansion-Board_2026-11-18.pdf)
 - **Bill of Materials:** [View BOM](./BOM_ESP32-DevKit-V1-Expansion-Board_2026-11-18.csv)
 - **Gerber archive:** [Download Gerber ZIP](./Gerber_ESP32-DevKit-V1-Expansion-Board_PCB_ESP32-DevKit-V1-Expansion-Board_2_2026-11-18.zip)
-
+- **3D view:**![ESP32 DevKit V1 Expansion Board 3D View](./ESP32-Expansion-Board-3D-View.png)
 The Gerber archive contains PCB manufacturing files. Review the board outline, copper layers, solder masks, silkscreen and drill files before fabrication.
 
 ## Before fabrication
