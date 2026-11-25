@@ -55,14 +55,14 @@ The external input path is designed around a resettable fuse (F1) and a 1N5819 S
 - **Never apply 5 V to the ESP32 3V3 pin or to any GPIO pin.**
 - Do not connect USB and external power at the same time unless the power path and isolation on your exact ESP32 DevKit V1 clone have been verified.
 - Disconnect all power before wiring or changing jumper settings.
-
+- 
 ## Design files
 
-- **Schematic PDF:** `Schematic_ESP32-DevKit-V1-Expansion-Board_2026-11-18.pdf`
-- **Bill of Materials:** `BOM_ESP32-DevKit-V1-Expansion-Board_2026-11-18.csv`
-- **Gerber archive:** `Gerber_ESP32-DevKit-V1-Expansion-Board_PCB_ESP32-DevKit-V1-Expansion-Board_2_2026-11-18.zip`
+- **Schematic PDF:** [View Schematic](./Schematic_ESP32-DevKit-V1-Expansion-Board_2026-11-18.pdf)
+- **Bill of Materials:** [View BOM](./BOM_ESP32-DevKit-V1-Expansion-Board_2026-11-18.csv)
+- **Gerber archive:** [Download Gerber ZIP](./Gerber_ESP32-DevKit-V1-Expansion-Board_PCB_ESP32-DevKit-V1-Expansion-Board_2_2026-11-18.zip)
 
-The Gerber archive is intended for PCB fabrication review. Check the board outline, copper layers, solder masks, silkscreen, drill files, clearances, and footprints in a Gerber viewer before ordering a PCB.
+The Gerber archive contains PCB manufacturing files. Review the board outline, copper layers, solder masks, silkscreen and drill files before fabrication.
 
 ## Before fabrication
 
